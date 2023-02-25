@@ -1,2 +1,2 @@
-# Arch-Configuration-
+# Arch-Configuration
 Arch Installation Process With HYPRLAND Window Manager...
